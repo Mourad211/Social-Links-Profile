@@ -12,10 +12,10 @@ ul {
 /*  */
 .hero {
   background-color: #141414;
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 .hero .container {
   background-color: #1f1f1f;
@@ -23,7 +23,7 @@ ul {
   flex-wrap: wrap;
   flex-direction: column;
   align-items: center;
-  padding: 50px;
+  padding: 20px;
   border-radius: 10px;
   color: white;
 }
