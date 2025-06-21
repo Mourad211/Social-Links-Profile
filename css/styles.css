@@ -15,7 +15,6 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
 }
 .hero .container {
   background-color: #1f1f1f;
